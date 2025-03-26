@@ -42,12 +42,11 @@ models/
 ## 🧩 Project Structure
 ```bash
 .
-├── app.py                # Streamlit frontend
-├── flaskapp.py            # Flask API server
-├── use_models.py         # Model loading utilities
+├── s.py                  # Streamlit frontend
+├── f.py                  # Flask API server
 ├── requirements.txt      # Dependencies
-└── models/               # Pretrained models and scalers
-└── metrices/             # Roc Curve and classification Report
+└── models/               # models and scalers
+└── metrices/             # ROC Curve and classification Report
 ```
 
 ## 🤝 Contributing
